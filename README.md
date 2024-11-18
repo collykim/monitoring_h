@@ -13,7 +13,8 @@ Server resource monitoring with prometheus and grafana
    -> CPU사용량이 -로 표시되는 등 서버 자원 상황을 정확하게 확인할 수 없음
 
 ### 데이터 흐름
-nodeexporter를 이용해서 prometheus에 저장 
+nodeexporter를 이용해서 prometheus에 저장
+
 grafana로 서버 자원 확인
 
 
